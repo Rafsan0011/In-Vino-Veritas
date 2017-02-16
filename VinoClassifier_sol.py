@@ -17,7 +17,7 @@ def load(file_name):
 
     with open(file_name, 'r') as fp:
 
-        # your code here
+     
 
         X = []
         flag = True
